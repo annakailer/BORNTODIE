@@ -16,3 +16,11 @@ img{
     width: 600px;
     margin-left: 650px;
 }
+.logo_cabecalho{
+    width:150px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.item_lista_cabecalho{
+    background-color: rgb(88, 197, 197);
+}
